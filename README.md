@@ -3,4 +3,4 @@ Fiz essa página de Login do facebook usando HTML e CSS como forma para mim trei
 
 I created this Facebook Login Page using HTML and CSS as a way for me to put in practice my knowledge of these markup languages, however I still intend to do some future editings in the code because there are some parts that need to be improved.
 
-<img src="Facebook Page.PNG">
+<img src="Facebook Page.PNG" alt="Página de Login do Facebook">
